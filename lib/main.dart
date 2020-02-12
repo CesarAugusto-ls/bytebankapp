@@ -18,7 +18,7 @@ class BytebankApp extends StatelessWidget {
           textTheme: ButtonTextTheme.primary,
         ),
       ),
-      home: ContactsForm(),
+      home: Dashboard(),
     );
   }
 }
